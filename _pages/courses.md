@@ -1,1 +1,4 @@
-
+---
+title: "Courses"
+permalink: /courses/
+---
