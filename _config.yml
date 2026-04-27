@@ -26,11 +26,11 @@ author:
   avatar           : "/profile%20pic.jpg"
   name             : "Clement (Kai Hei) Chu"
   pronouns         : # example: "she/her"  
-  bio              : "University of Toronto, 4th year Mathematics and Statistics student"
+  bio              : "University of Toronto, 4th year BSc Mathematics and Statistics student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Toronto"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "clement.chu@mail.utoronto.ca" 
 
   # Academic websites
   academia         : # URL
