@@ -14,10 +14,7 @@ In summer 2026, I will work with Prof. [Ricardo Baptista](https://www.ricardobap
 <br><br><br>
 <br><br><br>
 <br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
+
 
 
 
