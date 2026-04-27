@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* force page content to extend so footer sits at bottom */
+#main {
+  min-height: calc(100vh - 220px); /* adjust 220px if needed */
+}
