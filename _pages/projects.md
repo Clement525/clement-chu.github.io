@@ -11,5 +11,5 @@ A directed reading project organized by the Mathematics Department at the Univer
 ### Causal Inference (Directed Reading Project), Jan 2026-May 2026
 A directed reading project organized by the Department of Statistical Sciences at the University of Toronto. Supervised by PhD student [Arian Hashmzadeh](https://arian-hashemzadeh.github.io/).
 
-### Diffusion Models / SDE
-Brief description...
+### Expository Paper: Analysis of Robustness of Linear Estimators via l<sup>p<sup> and Dual Norm Lipschitz Bounds
+Click [here]
