@@ -9,7 +9,7 @@ redirect_from:
 
 I am Clement (Kai Hei) Chu, a fourth year BSc student at the University of Toronto, studying Mathematics and Statistics. I am generally interested in probability theory, generative and score-based modeling. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+For summer 2026, I will be working with Prof. [Ricardo Baptista](https://www.ricardobaptista.com/) on annealed Langevin dynamics and its applications in generative and diffusion modeling. 
 
 A data-driven personal website
 ======
