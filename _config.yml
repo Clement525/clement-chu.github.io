@@ -23,7 +23,7 @@ repository               : "Clement525/clement-chu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile pic.jpg"
   name             : "Clement (Kai Hei) Chu"
   pronouns         : # example: "she/her"  
   bio              : "University of Toronto, 4th year Mathematics and Statistics student"
