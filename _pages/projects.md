@@ -11,5 +11,5 @@ A directed reading project organized by the Mathematics Department at the Univer
 ### Causal Inference (Directed Reading Project), Jan 2026-May 2026
 A directed reading project organized by the Department of Statistical Sciences at the University of Toronto. Supervised by PhD student [Arian Hashmzadeh](https://arian-hashemzadeh.github.io/).
 
-### Expository Paper: Analysis of Robustness of Linear Estimators via l<sup>p<sup> and Dual Norm Lipschitz Bounds
-Click [here]
+### Expository Paper: Analysis of Robustness of Linear Estimators via l^p and Dual Norm Lipschitz Bounds
+Informally guided by PhD student [Jason (Sin Hang) Yeung](https://www.mathematics.utoronto.ca/people/directories/graduate-students/sin-hang-jason-yeung). Click [here](https://clement525.github.io/clement-chu.github.io/files/Estimators-Final-New.pdf) to view the paper.
