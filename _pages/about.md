@@ -11,4 +11,13 @@ I am Clement (Kai Hei) Chu, a fourth year BSc student at the University of Toron
 
 In summer 2026, I will work with Prof. [Ricardo Baptista](https://www.ricardobaptista.com/) on annealed Langevin dynamics and its applications to generative and diffusion models. 
 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+
+
 
