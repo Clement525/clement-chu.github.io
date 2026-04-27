@@ -10,11 +10,12 @@ body {
   flex-direction: column;
 }
 
-.initial-content,
-.page {
+/* THIS is the actual wrapper that matters */
+#main {
   flex: 1;
 }
 
+/* push footer down */
 .page__footer {
   margin-top: auto;
 }
