@@ -1,0 +1,20 @@
+---
+---
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.initial-content,
+.page {
+  flex: 1;
+}
+
+.page__footer {
+  margin-top: auto;
+}
