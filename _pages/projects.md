@@ -15,4 +15,4 @@ A directed reading project organized by the Department of Statistical Sciences a
 Informally guided by PhD student [Jason (Sin Hang) Yeung](https://www.mathematics.utoronto.ca/people/directories/graduate-students/sin-hang-jason-yeung). Click [here](https://clement525.github.io/clement-chu.github.io/files/Estimators-Final-New.pdf) to view the paper.
 
 ### Course Project (STA422/2162): Are Improper Priors Objective in Statistical Inference?
-Click [here](https://clement525.github.io/clement-chu.github.io/files/422-Project.pdf) to view the paper.
+Final project for STA422 (Theory of Statistical Inference) taught by Prof. [Michael Evans](https://utstat.toronto.edu/mikevans/). Click [here](https://clement525.github.io/clement-chu.github.io/files/422-Project.pdf) to view the paper.
