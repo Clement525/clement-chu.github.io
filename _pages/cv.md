@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://clement525.github.io/clement-chu.github.io/files/Clement_CV_Final.pdf) to view my (possibly outdated) CV.
+Click [here](https://clement525.github.io/clement-chu.github.io/files/Clement-CV.pdf) to view my (possibly outdated) CV.
